@@ -43,3 +43,17 @@ li {
     color: #444;
     margin-bottom: 8px;
 }
+
+a {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px; /*内側の余白*/
+    border-radius: 5px;
+    margin-top: 10px; /*上の余白*/
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: #0056b3;
+}
